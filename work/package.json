@@ -1,0 +1,11 @@
+{
+  "name": "nw.js-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "../sdk/nw.exe ."
+  },
+  "author": "",
+  "license": "ISC"
+}
